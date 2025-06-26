@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Python+Enthusiast;Lifelong+Learner;UI%2FUX+Lover&center=true&width=500&height=35">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Python+Enthusiast;Lifelong+Learner;UI%2FUX+Lover;Desktop+App+Tinkerer+%F0%9F%92%BB&center=true&width=500&height=35">
 </p>
 
 ---
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -27,6 +28,7 @@
 
 - 🌐 **Frontend web projects** (especially with ReactJS)
 - 🐍 **Python automation or utility tools**
+- 🖥️ **Cute and aesthetic desktop apps with Electron.js**
 - 🌱 **Beginner-friendly open-source projects**
 - 🎨 **Improving UI/UX in existing tools**
 
@@ -37,6 +39,13 @@
 - ⚛️ Advanced React patterns
 - 📊 Python for data processing & GUI
 - 🔄 GitHub collaboration workflows
+
+---
+
+## ✨ Aesthetic Desktop App Creator
+
+I absolutely adore making cute, aesthetic desktop apps using Electron.js!  
+With a sprinkle of HTML, CSS, and JavaScript, I love turning cozy ideas into delightful little apps that brighten up your workspace.
 
 ---
 
