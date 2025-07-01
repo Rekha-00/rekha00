@@ -42,12 +42,7 @@
 
 ---
 
-## ✨ Aesthetic Desktop App Creator
 
-I absolutely adore making cute, aesthetic desktop apps using Electron.js!  
-With a sprinkle of HTML, CSS, and JavaScript, I love turning cozy ideas into delightful little apps that brighten up your workspace.
-
----
 
 ## 📫 Reach Me At
 
