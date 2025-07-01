@@ -61,7 +61,7 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact  
 
 > I love turning complex ideas into clean, simple UI – and I enjoy scripting little Python tools that make life easier!
 
